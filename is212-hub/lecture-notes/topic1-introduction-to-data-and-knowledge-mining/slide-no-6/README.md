@@ -47,4 +47,10 @@ Before the computer can actually "mine" for patterns, the data must go through s
 
 Think of this slide like cooking a meal. Before you actually cook (the Data Mining step), you have to wash your vegetables (Cleaning), gather all your ingredients from different cupboards (Integration), pick only the ones you need for the recipe (Selection), and chop them up so they are ready for the pan (Transformation).
 
+---
+
+# Key notes from Tchel Hsu Myat Mo
+
+- Binning ကို noise data ဖယ်ရှားတဲ့နေရာ မှာသုံးတယ်။
+
 
