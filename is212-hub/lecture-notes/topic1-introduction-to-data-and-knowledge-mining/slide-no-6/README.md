@@ -39,7 +39,7 @@ Before the computer can actually "mine" for patterns, the data must go through s
 - **Purpose:** To make the data ready for the computer.
 - **What happens:** Data is converted or "consolidated" into a form that is appropriate for mining. A common way to do this is through aggregation (grouping data together, like turning daily sales into a monthly total).
 
-**Example for Data Selection process-** ကွန်ပျူတာက စာသားတွေကို တိုက်ရိုက်တွက်ရတာထက် ဂဏန်းတွေကို ပိုတွက်ရလွယ်ပါတယ်။ ဒါကြောင့် ဥပမာ- Gender နေရာမှာ Male / Female လို့ ရှိနေရင် ကွန်ပျူတာ ဖတ်ရလွယ်အောင် Male = 1၊ Female = 0 ဆိုပြီး ဂဏန်းပုံစံ ပြောင်းလဲပေးလိုက်တဲ့ လုပ်ငန်းစဉ်မျိုး ဖြစ်တယ်။
+**Example for Data Transformation process-** ကွန်ပျူတာက စာသားတွေကို တိုက်ရိုက်တွက်ရတာထက် ဂဏန်းတွေကို ပိုတွက်ရလွယ်ပါတယ်။ ဒါကြောင့် ဥပမာ- Gender နေရာမှာ Male / Female လို့ ရှိနေရင် ကွန်ပျူတာ ဖတ်ရလွယ်အောင် Male = 1၊ Female = 0 ဆိုပြီး ဂဏန်းပုံစံ ပြောင်းလဲပေးလိုက်တဲ့ လုပ်ငန်းစဉ်မျိုး ဖြစ်တယ်။
 
 ---
 
