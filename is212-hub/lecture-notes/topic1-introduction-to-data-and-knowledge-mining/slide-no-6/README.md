@@ -2,12 +2,12 @@
 
 It is important to understand that Data Mining is not a single, isolated task. It is actually one vital step in a much larger cycle called the Knowledge Discovery Process.
 
-Data Miningဆိုတာ သီးခြားစီ သီးသန့်လုပ်ဆောင်ရတဲ့ လုပ်ငန်းစဉ်တစ်ခု မဟုတ်။ 
-သူဟာ Knowledge Discovery Process လို့ခေါ်တဲ့ ပိုမိုကြီးမားတဲ့ processထဲက အလွန်အရေးကြီးတဲ့ အဆင့်တစ်ခုသာ ဖြစ်တယ်။
+    Data Miningဆိုတာ သီးခြားစီ သီးသန့်လုပ်ဆောင်ရတဲ့ လုပ်ငန်းစဉ်တစ်ခု မဟုတ်။ 
+    သူဟာ Knowledge Discovery Process လို့ခေါ်တဲ့ ပိုမိုကြီးမားတဲ့ processထဲက အလွန်အရေးကြီးတဲ့ အဆင့်တစ်ခုသာ ဖြစ်တယ်။
 
 Before the computer can actually "mine" for patterns, the data must go through several preparation steps:
 
-ကွန်ပျူတာကနေပြီး Data တွေထဲက Patternsတွေကို မရှာဖွေခင်မှာ အဲဒီ Data တွေကို အဆင့်ဆင့်ကို အရင်ဆုံး ဖြတ်သန်းရ။ အပြင်ကရလာတဲ့ Raw Data တွေထဲမှာ အမှိုက်တွေ၊ အမှားတွေ ပါနေတတ်လို့ အဲဒါတွေကို အရင်ဖယ်ရှားဖို့လို။
+    ကွန်ပျူတာကနေပြီး Data တွေထဲက Patternsတွေကို မရှာဖွေခင်မှာ အဲဒီ Data တွေကို အဆင့်ဆင့်ကို အရင်ဆုံး ဖြတ်သန်းရ။ အပြင်ကရလာတဲ့ Raw Data တွေထဲမှာ အမှိုက်တွေ၊ အမှားတွေ ပါနေတတ်လို့ အဲဒါတွေကို အရင်ဖယ်ရှားဖို့လို။
 
 ## 1. Data Cleaning
 

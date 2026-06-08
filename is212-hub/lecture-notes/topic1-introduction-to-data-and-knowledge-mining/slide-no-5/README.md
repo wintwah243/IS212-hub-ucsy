@@ -2,7 +2,7 @@
 
 Data mining is a process where we use computers to semi-automatically look through very large databases to find patterns that are actually useful.
 
-Data miningဆိုတာက ကွန်ပျူတာကိုအသုံးပြုပြီး ရှုပ်ထွေးတဲ့ databaseထဲကdataတွေထဲကမှ (အထူးသဖြင့် businessအတွက်) လိုအပ်ပြီး အသုံးဝင်တဲ့ patternတွေကိုရှာဖွေတာကို Data miningလို့ခေါ်တယ်။
+  Data miningဆိုတာက ကွန်ပျူတာကိုအသုံးပြုပြီး ရှုပ်ထွေးတဲ့ databaseထဲကdataတွေထဲကမှ (အထူးသဖြင့် businessအတွက်) လိုအပ်ပြီး အသုံးဝင်တဲ့ patternတွေကိုရှာဖွေတာကို Data miningလို့ခေါ်တယ်။
 
 ## 2. Turning Data into Knowledge
 
