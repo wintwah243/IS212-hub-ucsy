@@ -1,4 +1,4 @@
-# Supervised Learning (Classification) (slide 6,7 and 8 - 14.7.2026)
+# Supervised Learning (Classification) (slide 6,7,8,9,10 - 14.7.2026)
 
 Supervised learning is often described as "learning by examples".
 
